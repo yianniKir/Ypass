@@ -1,1 +1,1 @@
-# what is this for? cringe
+#money management command line software
