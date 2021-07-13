@@ -22,7 +22,6 @@ int main(int argc, char* argv[]){
     amntfile = fopen("amnt.txt", "r");
     //get current money amount from the amnt.txt file
     fscanf(amntfile, "%i", &moneyamnt);
-    
     //switch statement to handle the possible operator
     switch(op){
         case 'a':
